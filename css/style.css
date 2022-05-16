@@ -1,0 +1,36 @@
+div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+}
+button{
+    margin-left: 30px;
+    padding: 3px 70px 3px ;
+    margin-bottom: 30px;
+    border-radius: 7px solid white;
+    
+}
+button:hover{
+    background-color: rgb(235, 158, 17);
+    color: rgb(255, 255, 255);
+    border-radius:5px;
+}
+input{
+    padding-right: 48px;
+    float: right;
+    text-align: center;
+    height: 20px;
+    
+}
+section{
+    color: white;
+    background-color: rgb(228, 127, 11);
+    width: auto;
+    border-radius: 20px;
+    margin: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
